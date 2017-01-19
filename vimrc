@@ -38,6 +38,7 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'jnurmine/Zenburn'
 Plugin 'tpope/vim-surround'
+Plugin 'mattn/emmet-vim'
 call vundle#end()
 
 filetype plugin indent on    " enables filetype detection
